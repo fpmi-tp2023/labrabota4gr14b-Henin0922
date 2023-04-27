@@ -20,6 +20,8 @@ The repository with some `C` source files.
 
 # Author
 
+Zhang Haining
+
 //введите вашу фамилию и имя
 // Добавить ПУБЛИЧНУЮ ссылку на отчет Отчет по лабораторной работе 4
 {ФИО студента}
